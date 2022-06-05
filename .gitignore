@@ -25,3 +25,4 @@ yarn-error.log*
 
 # Frontend Mentor starter pack
 /design
+.time
